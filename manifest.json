@@ -1,11 +1,11 @@
 {
-    "name": "managementsoftware",
-    "short_name": "managementsoftware",
+    "name": "businessmanagementsoftware",
+    "short_name": "businessmanagementsoftware",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "This flutter project will help user to enhance his/her business by a huge margin.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
