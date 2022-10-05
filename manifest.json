@@ -1,11 +1,11 @@
 {
-    "name": "businessmanagementsoftware",
-    "short_name": "businessmanagementsoftware",
+    "name": "pharmacymanagement",
+    "short_name": "pharmacymanagement",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "This flutter project will help user to enhance his/her business by a huge margin.",
+    "description": "Flutter based a pharmacy management web application",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
