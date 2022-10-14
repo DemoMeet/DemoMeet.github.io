@@ -74750,11 +74750,11 @@ b1=a6.dy
 b1.toString
 b2=b1?0:5
 b3=b1?B.b8:B.f
-s=A.R(30)
+s=A.R(10)
 b1=b1?A.bV(A.b([A.k(a9,a7,a7,a7,A.v(a7,a7,B.j,a7,a7,a7,a7,a7,a7,a7,a7,a7,a7,B.l,a7,a7,!0,a7,a7,a7,a7,a7,a7,a7,a7),B.a7,a7),A.N(a7,a7,20),A.ad(A.N(A.eD(B.j,2),10,10),a7,a7)],t.p),B.v,B.M,B.aD):A.k("Add Company",a7,a7,a7,A.v(a7,a7,B.j,a7,a7,a7,a7,a7,a7,a7,a7,a7,a7,B.l,a7,a7,!0,a7,a7,a7,a7,a7,a7,a7,a7),B.a7,a7)
-g=A.eq(B.N,s,A.l_(b1,20,new A.ag8(a6,b6),new A.D(120,25,120,25)),B.J,b3,b2,a7,a7,a7,a7,a7,B.az)
+g=A.eq(B.N,s,A.l_(b1,10,new A.ag8(a6,b6),new A.D(40,10,40,10)),B.J,b3,b2,a7,a7,a7,a7,a7,B.az)
 b2=A.R(10)
-f=A.x(a7,A.Cu(A.k("Company",a7,a7,a7,A.v(a7,a7,B.j,a7,a7,a7,a7,a7,a7,a7,a7,a7,a7,B.l,a7,a7,!0,a7,a7,a7,a7,a7,a7,a7,a7),a7,a7),new A.ag9(a6,b6,h,g,new A.afO(a6,i)),a7),a7,a7,new A.ax(B.f,a7,a7,b2,a7,a7,B.r),a7,a7,new A.D(10,5,10,5),a7)
+f=A.x(a7,A.Cu(A.k("Company",a7,a7,a7,A.v(a7,a7,B.j,a7,a7,a7,a7,a7,a7,a7,a7,a7,a7,B.l,a7,a7,!0,a7,a7,a7,a7,a7,a7,a7,a7),a7,a7),new A.ag9(a6,b6,h,g,new A.afO(a6,i)),a7),a7,a7,new A.ax(B.f,a7,a7,b2,a7,a7,B.r),a7,a7,new A.D(3,3,3,3),a7)
 b2=b6.u(b0).f
 b0=b6.u(b0).f
 b3=A.hr(B.q,a7,a7,B.bm,new A.el("assets/images/deshboard.jpg"),!1,a7,0.4,B.av)
@@ -74963,9 +74963,9 @@ A.ac(new A.a2(s,new A.afR(r),q),!0,q.j("aJ.E"))
 q=A.lo()
 s=t.p
 p=t.W
-o=A.b([new A.cs(A.b([A.bs(A.x(k,A.ad(new A.L(B.o,A.k("Name",k,k,k,A.v(k,k,k,k,k,k,k,k,k,k,k,20,k,B.l,k,k,!0,k,k,k,k,k,k,k,k),k,k),k),k,k),B.bC,k,k,k,k,k,k)),A.bs(A.x(k,A.ad(new A.L(B.o,A.k("Delete",k,k,k,A.v(k,k,k,k,k,k,k,k,k,k,k,20,k,B.l,k,k,!0,k,k,k,k,k,k,k,k),k,k),k),k,k),B.bC,k,k,k,k,k,k))],s))],p)
+o=A.b([new A.cs(A.b([A.bs(A.x(k,A.ad(new A.L(B.o,A.k("Name",k,k,k,A.v(k,k,k,k,k,k,k,k,k,k,k,15,k,B.l,k,k,!0,k,k,k,k,k,k,k,k),k,k),k),k,k),B.bC,k,k,k,k,k,k)),A.bs(A.x(k,A.ad(new A.L(B.o,A.k("Delete",k,k,k,A.v(k,k,k,k,k,k,k,k,k,k,k,15,k,B.l,k,k,!0,k,k,k,k,k,k,k,k),k,k),k),k,k),B.bC,k,k,k,k,k,k))],s))],p)
 for(n=this.a,m=0;m<r.length;++m){l=r[m].h(0,"name")
-B.b.O(o,A.b([new A.cs(A.b([new A.bf(A.x(k,new A.bd(B.q,k,k,new A.L(B.o,A.k(l,k,k,k,new A.q(!0,k,k,k,k,k,15,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k),k,k),k),k),k,k,k,k,k,k,k),k),new A.bf(A.x(k,new A.bd(B.q,k,k,new A.L(B.o,A.cC(k,new A.eH(B.au,k,B.p,k),k,new A.afS(n,r,m),k),k),k),k,k,k,k,k,k,k),k)],s))],p))}return A.x(k,A.ck(A.ln(q,o,B.bx),B.D),k,k,new A.ax(B.cd,k,k,new A.ca(new A.bn(10,10),new A.bn(10,10),B.H,B.H),k,k,B.r),k,k,new A.D(10,20,10,20),k)}},
+B.b.O(o,A.b([new A.cs(A.b([new A.bf(A.x(k,new A.bd(B.q,k,k,new A.L(B.o,A.k(l,k,k,k,new A.q(!0,k,k,k,k,k,10,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k),k,k),k),k),k,k,k,k,k,k,k),k),new A.bf(A.x(k,new A.bd(B.q,k,k,new A.L(B.o,A.cC(k,new A.eH(B.au,15,B.p,k),k,new A.afS(n,r,m),k),k),k),k,k,k,k,k,k,k),k)],s))],p))}return A.x(k,A.ck(A.ln(q,o,B.bx),B.D),k,k,new A.ax(B.cd,k,k,new A.ca(new A.bn(10,10),new A.bn(10,10),B.H,B.H),k,k,B.r),k,k,new A.D(10,5,10,5),k)}},
 $S:36}
 A.afR.prototype={
 $1(a){var s=a.kl(0)
@@ -75018,7 +75018,7 @@ A.jf(new A.afU(s.a,s.c,s.d,s.e),s.b,t.z)},
 $S:0}
 A.afU.prototype={
 $1(a){var s=this,r=null,q=A.ad(A.k("New Company",r,r,r,r,r,r),r,r),p=A.v(r,r,r,r,r,r,r,r,r,r,r,15,r,r,r,r,!0,r,r,r,r,r,r,r,r)
-return A.il(r,B.cd,A.ck(A.x(r,new A.L(B.h9,A.iC(A.d7(A.b([s.b,A.N(r,20,r),s.c,A.N(r,40,r),s.d.$0(),A.N(r,40,r)],t.p),B.v,B.M,B.C),s.a.db),r),r,r,r,r,r,r,r),B.D),!0,q,p)},
+return A.il(r,B.cd,A.ck(A.x(r,new A.L(B.h9,A.iC(A.d7(A.b([s.b,A.N(r,10,r),s.c,A.N(r,20,r),s.d.$0(),A.N(r,40,r)],t.p),B.v,B.M,B.C),s.a.db),r),r,r,r,r,r,r,r),B.D),!0,q,p)},
 $S:13}
 A.aga.prototype={
 $0(){A.c0(this.a,"/",t.X)},

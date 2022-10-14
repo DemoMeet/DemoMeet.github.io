@@ -4,7 +4,7 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "44909ec6d9577a6a570183ab28c00aa3",
-"main.dart.js": "f278667e247a4c60f3c7993cf353f896",
+"main.dart.js": "1b91fbb9bfeceba962c2c9b4abe63415",
 "flutter.js": "0816e65a103ba8ba51b174eeeeb2cb67",
 "assets/AssetManifest.json": "1a7616154d38bc7ebba1b7357b41973a",
 "assets/assets/images/deshboard.jpg": "37e7b0072e0c029b5f53d85b443ae450",
@@ -20,8 +20,8 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
 "manifest.json": "2dae88693a8c80269013283ce2cf39ce",
-"index.html": "52d6f857a10009227d68243d90b69a49",
-"/": "52d6f857a10009227d68243d90b69a49",
+"index.html": "08f0ce925228653b5eb6f7df987c44d8",
+"/": "08f0ce925228653b5eb6f7df987c44d8",
 "stockd.jpg": "280cc895c559334ef000ba12723ab955",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
