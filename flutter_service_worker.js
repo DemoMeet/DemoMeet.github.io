@@ -4,9 +4,10 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "44909ec6d9577a6a570183ab28c00aa3",
-"main.dart.js": "173a8f2bf91d4283b1c847db15281d53",
+"main.dart.js": "c405f1ed3050f364485a4aebc26b7535",
 "flutter.js": "0816e65a103ba8ba51b174eeeeb2cb67",
-"assets/AssetManifest.json": "1a7616154d38bc7ebba1b7357b41973a",
+"assets/AssetManifest.json": "2627ef9a5720450505480fffd1c94686",
+"assets/assets/images/medicineCom.png": "e20ddfae4321bc3742153b523d2df365",
 "assets/assets/images/deshboard.jpg": "37e7b0072e0c029b5f53d85b443ae450",
 "assets/assets/images/stockd.jpg": "280cc895c559334ef000ba12723ab955",
 "assets/assets/images/company.jpeg": "b702f0cbd0dca534ac19c5cfc81f4363",
@@ -20,8 +21,8 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
 "manifest.json": "2dae88693a8c80269013283ce2cf39ce",
-"index.html": "fa025f30ee9e7b0c2baeb9d66aa41a36",
-"/": "fa025f30ee9e7b0c2baeb9d66aa41a36",
+"index.html": "4dca7e9d8e718fd669044393f75bbc42",
+"/": "4dca7e9d8e718fd669044393f75bbc42",
 "stockd.jpg": "280cc895c559334ef000ba12723ab955",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
